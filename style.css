@@ -63,6 +63,10 @@
     font-family: cursive;   
 }
 
+.bannertext h2 span{
+    color:rgb(70, 104, 179);
+}
+
 .inst{
     padding: 20px;
     font-family: cursive;
